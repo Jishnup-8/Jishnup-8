@@ -89,7 +89,7 @@ A Passionate Python Full Stack Developer from India 🇮🇳
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Jishnup-8">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
